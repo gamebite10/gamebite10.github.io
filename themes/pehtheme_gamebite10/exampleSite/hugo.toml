@@ -1,7 +1,7 @@
 baseURL = 'https://pehtheme-hugo.netlify.app/'
 languageCode = 'en-us'
-title = 'Gamebite10'
-theme = 'pehtheme_gamebite10'
+title = 'Pehtheme'
+theme = 'pehtheme-hugo'
 
 summaryLength = '20' # <- 20 words are approximately 160 characters
 googleAnalytics = 'G-MEASUREMENT_ID' # <- Your GA-4
