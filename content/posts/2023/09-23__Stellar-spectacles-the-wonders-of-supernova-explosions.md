@@ -1,5 +1,5 @@
 ---
-title: "Stellar Spectacles: The Wonders of Supernova Explosions"
+title: "Raw Source Code, our community driven blog that explores Unreal Engine internals"
 date: 2023-09-23T22:45:37+07:00
 slug: /stellar-spectacles/
 description: Explore the breathtaking phenomena of supernova explosions, the cosmic fireworks of the universe.
