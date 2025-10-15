@@ -6,8 +6,36 @@
     <description>Recent content on Gamebite10</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Oct 2023 20:37:29 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 08:45:49 +0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing Our New Chatbot Powered by Go&#39;s Expr for Dynamic Logic.</title>
+      <link>http://localhost:1313/posts/2025/turbohey_introducing_our_new_chatbot/</link>
+      <pubDate>Tue, 14 Oct 2025 08:45:49 +0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/turbohey_introducing_our_new_chatbot/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://turbohey.com/&#34;&gt;TurboHey&lt;/a&gt; is our chatbot engine to visually create rich conversational flows using boxes and &lt;a href=&#34;https://expr-lang.org/docs/language-definition&#34;&gt;Go&amp;rsquo;s Expr language&lt;/a&gt;, with our tool is easy to implement complex things like &amp;lsquo;premium chats&amp;rsquo; where only certain parts of the flow are accessible after payment, or to recommend products to clients based on their local time zone and the weather.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unveiling the secrets of Unreal Engine memory systems</title>
+      <link>http://localhost:1313/posts/2025/unveiling_memory_in_unreal/</link>
+      <pubDate>Mon, 25 Aug 2025 22:59:49 +0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/unveiling_memory_in_unreal/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re working on the ultimate, &lt;a href=&#34;https://rawsourcecode.io/posts/illustrated-overview-mb2-allocator-part-1&#34;&gt;illustrated guide to the MallocBinned2 allocator&lt;/a&gt; inside Unreal Engine. Learn the low-level strategies that MB2 uses to manage memory, including its binning system and caching mechanisms, to gain a superior understanding of Unreal&amp;rsquo;s runtime performance.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Unscripted Journey of Building a Chatbot</title>
+      <link>http://localhost:1313/posts/2025/unscripted_journey_of_building_chatbot/</link>
+      <pubDate>Thu, 17 Apr 2025 22:42:49 +0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/unscripted_journey_of_building_chatbot/</guid>
+      <description>&lt;p&gt;Hello and welcome to our newest project &lt;a href=&#34;https://turbohey.com/chatbot-builder&#34;&gt;TurboHey&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Today marks the official beginning of a project we&amp;rsquo;ve been wanting to tackle for a long time: building a custom chatbot from the ground up. This first post is all about setting the stage and clarifying our central goal: making conversational AI easy and accessible for everyday business.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our community blog to share technical knowledge</title>
+      <link>http://localhost:1313/posts/2025/rawsourcecode_our_technical_blog/</link>
+      <pubDate>Thu, 27 Feb 2025 23:59:49 +0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/rawsourcecode_our_technical_blog/</guid>
+      <description>&lt;p&gt;We created &lt;a href=&#34;https://rawsourcecode.io/&#34;&gt;RawSourceCode&lt;/a&gt;, a techcnical blog to share deep-dive technical analyses and illustrated overviews of complex topics, with a strong emphasis on game development, low-level programming, cloud infraestructure and other interesing programming topics.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
@@ -16,60 +44,11 @@
       <description>&lt;p&gt;&lt;strong&gt;Pehtheme Hugo&lt;/strong&gt; is your gateway to the mysteries and wonders of the universe. We are a passionate community of space enthusiasts, scientists, and stargazers dedicated to sharing the awe-inspiring beauty and profound knowledge of the cosmos.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Creating rich chatbot experiences using TurboHey!</title>
-      <link>http://localhost:1313/posts/2023/unveiling-the-secrets-of-black-holes/</link>
-      <pubDate>Wed, 04 Oct 2023 22:11:36 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2023/unveiling-the-secrets-of-black-holes/</guid>
-      <description>&lt;p&gt;In the vast expanse of the cosmos, &lt;code&gt;there&lt;/code&gt; are few objects as mysterious and awe-inspiring as black holes. These enigmatic cosmic phenomena, once thought of as nothing more than theoretical curiosities, have now become a central focus of astronomical research. In this article, we embark on a journey deep into the heart of darkness, unraveling some of the secrets that lie within.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Galactic Marvels: The Most Spectacular Nebulas in the Cosmos</title>
-      <link>http://localhost:1313/posts/2023/galactic-marvels/</link>
-      <pubDate>Sun, 24 Sep 2023 11:15:17 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2023/galactic-marvels/</guid>
-      <description>&lt;p&gt;In the vast expanse of the cosmos, one cannot help but be captivated by the breathtaking beauty of nebulae. These celestial marvels are often hidden in the depths of space, waiting to be discovered and admired by astronomers and space enthusiasts alike. In this article, we will embark on a cosmic journey to explore some of the most spectacular nebulas in the cosmos, shedding light on their unique features and the mysteries they hold.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Raw Source Code, our community driven blog that explores Unreal Engine internals</title>
-      <link>http://localhost:1313/posts/2023/stellar-spectacles/</link>
-      <pubDate>Sat, 23 Sep 2023 22:45:37 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2023/stellar-spectacles/</guid>
-      <description>&lt;p&gt;In the vast expanse of the cosmos, few events match the spectacle and scientific importance of supernova explosions. These awe-inspiring cosmic fireworks mark the dramatic end of a star&amp;rsquo;s life and offer profound insights into the universe&amp;rsquo;s workings. In this article, we embark on a journey to explore the wonders of supernova explosions, shedding light on their significance and the mysteries they unveil.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>TurboHey! our chatbot builder with dynamic expression evaluator</title>
-      <link>http://localhost:1313/posts/2023/space-explorations-next-frontier/</link>
-      <pubDate>Tue, 15 Aug 2023 13:45:49 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2023/space-explorations-next-frontier/</guid>
-      <description>&lt;p&gt;The dream of reaching Mars has captured the imagination of scientists, engineers, and space enthusiasts for decades. In recent years, this dream has transformed into a tangible goal, with various space agencies and private companies embarking on missions to make it a reality. In this article, we delve into space exploration&amp;rsquo;s next frontier—the race to reach Mars.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Unveiling the secrets of Unreal Engine memory systems</title>
-      <link>http://localhost:1313/posts/2023/the-great-beyond/</link>
-      <pubDate>Sat, 12 Aug 2023 14:15:05 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2023/the-great-beyond/</guid>
-      <description>&lt;p&gt;The universe, with its vastness and complexity, has intrigued humanity for centuries. In recent decades, our understanding of the cosmos has deepened, thanks to groundbreaking discoveries about the expansion of the universe. In this article, we embark on a journey to explore the great beyond, delving into the universe&amp;rsquo;s expansion and the mysteries it unveils.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cosmic Time Travel: Peering into the Universe&#39;s Past with Telescopes</title>
-      <link>http://localhost:1313/posts/2022/cosmic-time-travel/</link>
-      <pubDate>Mon, 07 Aug 2023 09:30:32 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2022/cosmic-time-travel/</guid>
-      <description>&lt;p&gt;In the realm of astronomy, telescopes are our time machines, allowing us to peer into the distant past of the universe. These remarkable instruments have the power to capture light that has traveled across the cosmos for millions or even billions of years. In this article, we embark on a journey of cosmic time travel, exploring how telescopes enable us to witness the universe&amp;rsquo;s history.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Hubble Space Telescope: 30 Years of Stunning Discoveries</title>
-      <link>http://localhost:1313/posts/2022/the-hubble-space-telescope/</link>
-      <pubDate>Sun, 30 Jul 2023 09:30:32 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2022/the-hubble-space-telescope/</guid>
-      <description>&lt;p&gt;For three remarkable decades, the Hubble Space Telescope has been our eye on the universe, delivering breathtaking images and transformative scientific insights. Since its launch in 1990, the Hubble has reshaped our understanding of the cosmos and provided us with unparalleled views of distant galaxies, nebulae, and other celestial wonders. In this article, we celebrate the Hubble Space Telescope&amp;rsquo;s 30 years of stunning discoveries.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Exoplanets: Hunting for Earth&#39;s Cosmic Cousins</title>
-      <link>http://localhost:1313/posts/2022/exoplanets-hunting/</link>
-      <pubDate>Thu, 27 Jul 2023 13:03:07 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2022/exoplanets-hunting/</guid>
-      <description>&lt;p&gt;In the vast tapestry of the cosmos, one of the most intriguing quests of modern astronomy is the search for exoplanets, distant celestial bodies that might bear a resemblance to our own Earth. This endeavor is driven by the tantalizing question: Could there be other habitable worlds out there? In this article, we embark on a journey to explore the captivating hunt for Earth&amp;rsquo;s cosmic cousins.&lt;/p&gt;</description>
+      <title>Our interactive plugin to create a realsensing perspective illusion</title>
+      <link>http://localhost:1313/posts/2019/holocam-webcam/</link>
+      <pubDate>Fri, 30 Aug 2019 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2019/holocam-webcam/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://assetstore.unity.com/packages/tools/particles-effects/holo-cam-webcam-144223?srsltid=AfmBOooEWhe0V_KOYchYYymEWFurYL-Lwa96J7FcXOgam3P_buOgig6l&#34;&gt;HoloCam&lt;/a&gt; Webcam is a highly customizable Plug &amp;amp; Play plugin for Windows 10 that uses your webcam to track your player face and modify the perspective inside your scenes to achieve real-sensing 3D.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

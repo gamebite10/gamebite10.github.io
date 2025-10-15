@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plugin on Gamebite10</title>
+    <link>http://localhost:1313/tags/plugin/</link>
+    <description>Recent content in Plugin on Gamebite10</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Aug 2019 13:03:07 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our interactive plugin to create a realsensing perspective illusion</title>
+      <link>http://localhost:1313/posts/2019/holocam-webcam/</link>
+      <pubDate>Fri, 30 Aug 2019 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2019/holocam-webcam/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://assetstore.unity.com/packages/tools/particles-effects/holo-cam-webcam-144223?srsltid=AfmBOooEWhe0V_KOYchYYymEWFurYL-Lwa96J7FcXOgam3P_buOgig6l&#34;&gt;HoloCam&lt;/a&gt; Webcam is a highly customizable Plug &amp;amp; Play plugin for Windows 10 that uses your webcam to track your player face and modify the perspective inside your scenes to achieve real-sensing 3D.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

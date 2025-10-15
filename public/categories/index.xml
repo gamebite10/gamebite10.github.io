@@ -6,20 +6,27 @@
     <description>Recent content in Categories on Gamebite10</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Oct 2023 22:11:36 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 08:45:49 +0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Astronomy</title>
-      <link>http://localhost:1313/categories/astronomy/</link>
-      <pubDate>Wed, 04 Oct 2023 22:11:36 +0700</pubDate>
-      <guid>http://localhost:1313/categories/astronomy/</guid>
+      <title>Turbohey</title>
+      <link>http://localhost:1313/categories/turbohey/</link>
+      <pubDate>Tue, 14 Oct 2025 08:45:49 +0500</pubDate>
+      <guid>http://localhost:1313/categories/turbohey/</guid>
       <description></description>
     </item>
     <item>
-      <title>Space</title>
-      <link>http://localhost:1313/categories/space/</link>
-      <pubDate>Sun, 24 Sep 2023 11:15:17 +0700</pubDate>
-      <guid>http://localhost:1313/categories/space/</guid>
+      <title>Pinned</title>
+      <link>http://localhost:1313/categories/pinned/</link>
+      <pubDate>Mon, 25 Aug 2025 22:59:49 +0500</pubDate>
+      <guid>http://localhost:1313/categories/pinned/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unity</title>
+      <link>http://localhost:1313/categories/unity/</link>
+      <pubDate>Fri, 30 Aug 2019 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/categories/unity/</guid>
       <description></description>
     </item>
   </channel>

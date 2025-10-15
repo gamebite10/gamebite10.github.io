@@ -6,21 +6,14 @@
     <description>Recent content in Feature on Gamebite10</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Aug 2023 13:45:49 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 08:45:49 +0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/feature/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>TurboHey! our chatbot builder with dynamic expression evaluator</title>
-      <link>http://localhost:1313/posts/2023/space-explorations-next-frontier/</link>
-      <pubDate>Tue, 15 Aug 2023 13:45:49 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2023/space-explorations-next-frontier/</guid>
-      <description>&lt;p&gt;The dream of reaching Mars has captured the imagination of scientists, engineers, and space enthusiasts for decades. In recent years, this dream has transformed into a tangible goal, with various space agencies and private companies embarking on missions to make it a reality. In this article, we delve into space exploration&amp;rsquo;s next frontier—the race to reach Mars.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Exoplanets: Hunting for Earth&#39;s Cosmic Cousins</title>
-      <link>http://localhost:1313/posts/2022/exoplanets-hunting/</link>
-      <pubDate>Thu, 27 Jul 2023 13:03:07 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2022/exoplanets-hunting/</guid>
-      <description>&lt;p&gt;In the vast tapestry of the cosmos, one of the most intriguing quests of modern astronomy is the search for exoplanets, distant celestial bodies that might bear a resemblance to our own Earth. This endeavor is driven by the tantalizing question: Could there be other habitable worlds out there? In this article, we embark on a journey to explore the captivating hunt for Earth&amp;rsquo;s cosmic cousins.&lt;/p&gt;</description>
+      <title>Introducing Our New Chatbot Powered by Go&#39;s Expr for Dynamic Logic.</title>
+      <link>http://localhost:1313/posts/2025/turbohey_introducing_our_new_chatbot/</link>
+      <pubDate>Tue, 14 Oct 2025 08:45:49 +0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/turbohey_introducing_our_new_chatbot/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://turbohey.com/&#34;&gt;TurboHey&lt;/a&gt; is our chatbot engine to visually create rich conversational flows using boxes and &lt;a href=&#34;https://expr-lang.org/docs/language-definition&#34;&gt;Go&amp;rsquo;s Expr language&lt;/a&gt;, with our tool is easy to implement complex things like &amp;lsquo;premium chats&amp;rsquo; where only certain parts of the flow are accessible after payment, or to recommend products to clients based on their local time zone and the weather.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

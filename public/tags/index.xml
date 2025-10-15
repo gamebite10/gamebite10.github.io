@@ -6,104 +6,111 @@
     <description>Recent content in Tags on Gamebite10</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Oct 2023 22:11:36 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 08:45:49 +0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Black Hole</title>
-      <link>http://localhost:1313/tags/black-hole/</link>
-      <pubDate>Wed, 04 Oct 2023 22:11:36 +0700</pubDate>
-      <guid>http://localhost:1313/tags/black-hole/</guid>
+      <title>Chatbot</title>
+      <link>http://localhost:1313/tags/chatbot/</link>
+      <pubDate>Tue, 14 Oct 2025 08:45:49 +0500</pubDate>
+      <guid>http://localhost:1313/tags/chatbot/</guid>
       <description></description>
     </item>
     <item>
-      <title>Relativity</title>
-      <link>http://localhost:1313/tags/relativity/</link>
-      <pubDate>Wed, 04 Oct 2023 22:11:36 +0700</pubDate>
-      <guid>http://localhost:1313/tags/relativity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Space</title>
-      <link>http://localhost:1313/tags/space/</link>
-      <pubDate>Wed, 04 Oct 2023 22:11:36 +0700</pubDate>
-      <guid>http://localhost:1313/tags/space/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cosmic</title>
-      <link>http://localhost:1313/tags/cosmic/</link>
-      <pubDate>Sun, 24 Sep 2023 11:15:17 +0700</pubDate>
-      <guid>http://localhost:1313/tags/cosmic/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nebula</title>
-      <link>http://localhost:1313/tags/nebula/</link>
-      <pubDate>Sun, 24 Sep 2023 11:15:17 +0700</pubDate>
-      <guid>http://localhost:1313/tags/nebula/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Supernova</title>
-      <link>http://localhost:1313/tags/supernova/</link>
-      <pubDate>Sat, 23 Sep 2023 22:45:37 +0700</pubDate>
-      <guid>http://localhost:1313/tags/supernova/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Exploration</title>
-      <link>http://localhost:1313/tags/exploration/</link>
-      <pubDate>Tue, 15 Aug 2023 13:45:49 +0700</pubDate>
-      <guid>http://localhost:1313/tags/exploration/</guid>
+      <title>Expr</title>
+      <link>http://localhost:1313/tags/expr/</link>
+      <pubDate>Tue, 14 Oct 2025 08:45:49 +0500</pubDate>
+      <guid>http://localhost:1313/tags/expr/</guid>
       <description></description>
     </item>
     <item>
       <title>Feature</title>
       <link>http://localhost:1313/tags/feature/</link>
-      <pubDate>Tue, 15 Aug 2023 13:45:49 +0700</pubDate>
+      <pubDate>Tue, 14 Oct 2025 08:45:49 +0500</pubDate>
       <guid>http://localhost:1313/tags/feature/</guid>
       <description></description>
     </item>
     <item>
-      <title>Mars</title>
-      <link>http://localhost:1313/tags/mars/</link>
-      <pubDate>Tue, 15 Aug 2023 13:45:49 +0700</pubDate>
-      <guid>http://localhost:1313/tags/mars/</guid>
+      <title>Tool</title>
+      <link>http://localhost:1313/tags/tool/</link>
+      <pubDate>Tue, 14 Oct 2025 08:45:49 +0500</pubDate>
+      <guid>http://localhost:1313/tags/tool/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cosmos</title>
-      <link>http://localhost:1313/tags/cosmos/</link>
-      <pubDate>Sat, 12 Aug 2023 14:15:05 +0700</pubDate>
-      <guid>http://localhost:1313/tags/cosmos/</guid>
+      <title>Blog</title>
+      <link>http://localhost:1313/tags/blog/</link>
+      <pubDate>Mon, 25 Aug 2025 22:59:49 +0500</pubDate>
+      <guid>http://localhost:1313/tags/blog/</guid>
       <description></description>
     </item>
     <item>
-      <title>Telescopes</title>
-      <link>http://localhost:1313/tags/telescopes/</link>
-      <pubDate>Mon, 07 Aug 2023 09:30:32 +0700</pubDate>
-      <guid>http://localhost:1313/tags/telescopes/</guid>
+      <title>Memory</title>
+      <link>http://localhost:1313/tags/memory/</link>
+      <pubDate>Mon, 25 Aug 2025 22:59:49 +0500</pubDate>
+      <guid>http://localhost:1313/tags/memory/</guid>
       <description></description>
     </item>
     <item>
-      <title>Astronomy</title>
-      <link>http://localhost:1313/tags/astronomy/</link>
-      <pubDate>Sun, 30 Jul 2023 09:30:32 +0700</pubDate>
-      <guid>http://localhost:1313/tags/astronomy/</guid>
+      <title>Technical</title>
+      <link>http://localhost:1313/tags/technical/</link>
+      <pubDate>Mon, 25 Aug 2025 22:59:49 +0500</pubDate>
+      <guid>http://localhost:1313/tags/technical/</guid>
       <description></description>
     </item>
     <item>
-      <title>Telescope</title>
-      <link>http://localhost:1313/tags/telescope/</link>
-      <pubDate>Sun, 30 Jul 2023 09:30:32 +0700</pubDate>
-      <guid>http://localhost:1313/tags/telescope/</guid>
+      <title>Unreal</title>
+      <link>http://localhost:1313/tags/unreal/</link>
+      <pubDate>Mon, 25 Aug 2025 22:59:49 +0500</pubDate>
+      <guid>http://localhost:1313/tags/unreal/</guid>
       <description></description>
     </item>
     <item>
-      <title>Exoplanets</title>
-      <link>http://localhost:1313/tags/exoplanets/</link>
-      <pubDate>Thu, 27 Jul 2023 13:03:07 +0700</pubDate>
-      <guid>http://localhost:1313/tags/exoplanets/</guid>
+      <title>Diagram</title>
+      <link>http://localhost:1313/tags/diagram/</link>
+      <pubDate>Thu, 17 Apr 2025 22:42:49 +0500</pubDate>
+      <guid>http://localhost:1313/tags/diagram/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flow</title>
+      <link>http://localhost:1313/tags/flow/</link>
+      <pubDate>Thu, 17 Apr 2025 22:42:49 +0500</pubDate>
+      <guid>http://localhost:1313/tags/flow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Turbohey</title>
+      <link>http://localhost:1313/tags/turbohey/</link>
+      <pubDate>Thu, 17 Apr 2025 22:42:49 +0500</pubDate>
+      <guid>http://localhost:1313/tags/turbohey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Holocam</title>
+      <link>http://localhost:1313/tags/holocam/</link>
+      <pubDate>Fri, 30 Aug 2019 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/tags/holocam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Perspective</title>
+      <link>http://localhost:1313/tags/perspective/</link>
+      <pubDate>Fri, 30 Aug 2019 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/tags/perspective/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plugin</title>
+      <link>http://localhost:1313/tags/plugin/</link>
+      <pubDate>Fri, 30 Aug 2019 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/tags/plugin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Webcam</title>
+      <link>http://localhost:1313/tags/webcam/</link>
+      <pubDate>Fri, 30 Aug 2019 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/tags/webcam/</guid>
       <description></description>
     </item>
   </channel>

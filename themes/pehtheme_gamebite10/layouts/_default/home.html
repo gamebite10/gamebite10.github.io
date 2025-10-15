@@ -38,7 +38,7 @@
 
 <section class="mb-16">
 
-    {{ $cat := "astronomy" }}
+    {{ $cat := "pinned" }}
 
     <div class="flex items-center mb-6">
 
@@ -73,7 +73,7 @@
 
     <div class="grid grid-cols-1 md:grid-cols-3 gap-x-6 gap-y-10">
 
-    {{ $paginator := .Paginate ( where site.RegularPages "Type" "in" site.Params.mainSections) }}
+    {{ $paginator := .Paginate ( where site.RegularPages "Type" "in" site.Params.nonHighlighted) }}
 
     {{ range $paginator.Pages }}
 

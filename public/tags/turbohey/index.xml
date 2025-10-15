@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Turbohey on Gamebite10</title>
+    <link>http://localhost:1313/tags/turbohey/</link>
+    <description>Recent content in Turbohey on Gamebite10</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Apr 2025 22:42:49 +0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/turbohey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Unscripted Journey of Building a Chatbot</title>
+      <link>http://localhost:1313/posts/2025/unscripted_journey_of_building_chatbot/</link>
+      <pubDate>Thu, 17 Apr 2025 22:42:49 +0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/unscripted_journey_of_building_chatbot/</guid>
+      <description>&lt;p&gt;Hello and welcome to our newest project &lt;a href=&#34;https://turbohey.com/chatbot-builder&#34;&gt;TurboHey&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Today marks the official beginning of a project we&amp;rsquo;ve been wanting to tackle for a long time: building a custom chatbot from the ground up. This first post is all about setting the stage and clarifying our central goal: making conversational AI easy and accessible for everyday business.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

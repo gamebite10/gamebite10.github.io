@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Important on Gamebite10</title>
+    <link>http://localhost:1313/categories/important/</link>
+    <description>Recent content in Important on Gamebite10</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Aug 2025 22:59:49 +0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/important/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unveiling the secrets of Unreal Engine memory systems</title>
+      <link>http://localhost:1313/posts/2025/unreal_engine_memory_systems/</link>
+      <pubDate>Mon, 25 Aug 2025 22:59:49 +0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/unreal_engine_memory_systems/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re working on the ultimate, &lt;a href=&#34;https://rawsourcecode.io/posts/illustrated-overview-mb2-allocator-part-1&#34;&gt;illustrated guide to the MallocBinned2 allocator&lt;/a&gt; inside Unreal Engine. Learn the low-level strategies that MB2 uses to manage memory, including its binning system and caching mechanisms, to gain a superior understanding of Unreal&amp;rsquo;s runtime performance.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
