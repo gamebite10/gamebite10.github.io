@@ -12,6 +12,7 @@ tags:
   - webcam
   - holocam
   - perspective
+  - recent # Make the post appear in the recent section
 draft: false
 ---
 

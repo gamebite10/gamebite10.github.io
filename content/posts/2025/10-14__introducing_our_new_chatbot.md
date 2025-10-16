@@ -1,7 +1,7 @@
 ---
 title: "Introducing Our New Chatbot Powered by Go's Expr for Dynamic Logic."
 date: 2025-10-14T08:45:49+05:00
-slug: /turbohey_introducing_our_new_chatbot/
+slug: /turbohey-introducing-our-new-chatbot/
 description: "Our chatbot engine provides stackless, dynamic execution of custom logic and scripting within the chatbot flow"
 image: images/introducing_our_chatbot.jpg
 caption: Image by Deng Xiang from unsplash
@@ -11,7 +11,8 @@ tags:
   - chatbot 
   - Expr 
   - tool
-  - feature
+  - go
+  - feature # Make the post appear in the big featured section
 draft: false
 ---
 

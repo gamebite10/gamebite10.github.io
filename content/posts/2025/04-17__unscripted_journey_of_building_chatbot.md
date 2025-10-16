@@ -1,17 +1,18 @@
 ---
 title: "The Unscripted Journey of Building a Chatbot"
 date: 2025-04-17T22:42:49+05:00
-slug: /unscripted_journey_of_building_chatbot/
+slug: /unscripted-journey-of-building-chatbot/
 description: "Follow along as we kick off our new chatbot project, covering initial planning, tech stack decisions, and the first lines of code."
 image: images/patrick-fore-74TufExdP3Y-unsplash.jpg
 caption: Photo by Patrick Fore on Unsplash.
 categories:
-  - pinned
+  - turbohey
 tags:
   - chatbot 
   - turbohey
   - flow
   - diagram
+  - pinned # Make the site appear in the pinned row
 draft: false
 ---
 

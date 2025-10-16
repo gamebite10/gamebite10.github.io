@@ -1,17 +1,18 @@
 ---
 title: "Unveiling the secrets of Unreal Engine memory systems"
 date: 2025-08-25T22:59:49+05:00
-slug: /unveiling_memory_in_unreal/
+slug: /unveiling-memory-in-unreal/
 description: "We're ripping open the Unreal Engine memory allocator to expose its secrets!"
-image: images/nadine-shaabana-ZPP-zP8HYG0-unsplash.jpg
-caption: Photo by Nadine Shaabana on Unsplash.
+image: images/brands-people-M2cFm9iHXSc-unsplash.jpg
+caption: Photo by Brands&People on Unsplash.
 categories:
-  - pinned
+  - rawsourcecode
 tags:
   - blog 
   - unreal 
   - memory
   - technical
+  - pinned # Make the site appear in the pinned row
 draft: false
 ---
 
