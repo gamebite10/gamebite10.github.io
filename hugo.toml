@@ -46,3 +46,7 @@ disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.co
   [module.mounts] # Directing the static folder to assets.
   	source = 'assets'
   	target = 'static'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
